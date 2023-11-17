@@ -29,4 +29,4 @@ v 的大小（模）可根据毕达哥拉斯定理（勾股定理）计算得出
 
 它们之间的关系是：**v1 和 v2 头尾相连**。
 
-![](/imgs/blogs/gameengine/3dmath/relation.png)
+![](/imgs/blogs/gameengine/unity/3dmath/relation.png)

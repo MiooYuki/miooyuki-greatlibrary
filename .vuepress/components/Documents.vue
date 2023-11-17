@@ -34,13 +34,13 @@ const documentList = ref([
     {
       title: "Fabric wiki",
       desc: "Fabric 官方中文文档。",
-      link: "/docs/fabric/install/setup",
+      link: "/docs/fabric/install/setup.html",
       img: "/imgs/cover/fabric.png"
     },
     {
       title: "Apache Shiro",
       desc: "Shiro 官方文档翻译。",
-      link: "/docs/shiro/menu",
+      link: "/docs/shiro/menu.html",
       img: "/imgs/cover/shiro.png"
     },
     {
